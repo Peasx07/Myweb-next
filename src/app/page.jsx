@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="font-sans bg-[aliceblue]">
+    <div className="font-sans bg-[aliceblue] text-black">
       {/* หลัง */}
       <div className="fixed inset-0 backdrop-blur-[40px] z-[-1]"></div>
 
